@@ -10,7 +10,7 @@ import java.util.NoSuchElementException;
  * Implementation of a Static Sized Bag 
  * using an array of a generic type E
  * 
- * @author bermed28
+ * @author Fernando J. Bermudez - bermed28
  *
  * @param <E>
  */
